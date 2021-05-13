@@ -10,4 +10,4 @@ This repository is divided into:
 
 **dispersion_curves/**  output files (text and .mat) for each calculated allowed CTW mode.
 
-A subdomain of the model output can be downloaded here: 
+A subdomain of the model output can be downloaded here: https://doi.org/10.5281/zenodo.4750205
